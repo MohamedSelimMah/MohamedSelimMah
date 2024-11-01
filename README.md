@@ -7,7 +7,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
- I'm a software development student at Iteam University in Tunis. Who is passionate about creating technology to elevate people and help new small business to find the right path. Some technologies I enjoy working with include  Python, C, and SQL.
+ I'm a software development student at Iteam University in Tunis. Who is passionate about creating technology to elevate people and help new small business to find the right path. Some technologies I enjoy working with include  Java,Python, C, and SQL.
 
 
 
